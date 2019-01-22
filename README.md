@@ -8,8 +8,8 @@ Economists course at the VU. Most of this content is (or, should be) found on
 
 ## A quick, little index:
 
-- [Module1 stuff](./Module\ 1)
-- [Module2 Python files](./Module\ 2)
+- [Module1 stuff](./module1)
+- [Module2 Python files](./module2)
 - [Chapter 2 assigment walkthroughs](./llip/content/chapter2/index.md)
 - [*GeographyGrades* walkthrough](./llip/content/geographygrades.md)
 - [*Administration* walkthrough](./llip/content/administration.md)
