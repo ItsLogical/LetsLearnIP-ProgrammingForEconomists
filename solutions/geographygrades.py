@@ -1,4 +1,4 @@
-''' Assignment: Geograph Grades 1
+''' Assignment: Geography Grades 1
     Created on whenever
     @author: Whoever'''
 

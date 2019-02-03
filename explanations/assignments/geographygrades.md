@@ -16,7 +16,7 @@ Okay, so first off, for this assignment you might wonder: where do I start?
 being something like this:)
 
 ```python
-''' Assignment: Geograph Grades 1
+''' Assignment: Geography Grades 1
     Created on [whenever]
     @author: [whoever]'''
 
@@ -288,7 +288,7 @@ Grrreat! We're done!
 Our finished program looks like: 
 
 ```python
-''' Assignment: Geograph Grades 1
+''' Assignment: Geography Grades 1
     Created on [whenever]
     @author: [Whoever]'''
 
