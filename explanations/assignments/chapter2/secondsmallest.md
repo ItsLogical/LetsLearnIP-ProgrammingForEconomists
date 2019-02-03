@@ -34,7 +34,7 @@ for word in words :
 
 If you'd run this little example program, you get:
 
-```
+```plaintext
 If
 I
 ever

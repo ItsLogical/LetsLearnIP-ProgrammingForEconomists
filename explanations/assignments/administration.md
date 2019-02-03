@@ -129,7 +129,7 @@ to implement the '6-' logic, and the rounding to half functionality.
 to simply multiply your float by 2, round *that* off, and then divide by 2.
 > 
 > A quick example with 7.3 (*quick maffs*):
-> ```
+> ```plaintext
 > 7.3 * 2 = 14.6 => gets rounded to 15.0
 > divided by 2 makes 7.5. Perfect!
 > ```

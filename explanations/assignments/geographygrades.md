@@ -53,7 +53,7 @@ def print_report():
 
 If you run the program now, it'll work! And it'll print the following:
 
-```text
+```plaintext
 Report for group 2b
 Anne Adema has an average grade of 5.5
 End of report
@@ -98,7 +98,7 @@ def print_report():
 If you run your program now, you'll get (don't mind the newlines you get in 
 between):
 
-```text
+```plaintext
 Report for group 2b
 Anne Adema____________6.5 5.5 4.5
 
@@ -186,7 +186,7 @@ def process_input_line(line):
 
 Running the program now results in:
 
-```
+```plaintext
 Report for group 2b
 Anne Adema - 6.5 5.5 4.5
 
@@ -273,7 +273,7 @@ float to 1 digit behind the decimal point.
 
 Okay, let's run it. We'll get:
 
-```text
+```plaintext
 Report for group 2b
 Anne Adema has an average grade of 5.5
 Bea de Bruin has an average grade of 7.2

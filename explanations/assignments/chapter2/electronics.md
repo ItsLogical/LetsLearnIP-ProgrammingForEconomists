@@ -41,7 +41,7 @@ where. An example:
 > print "Hi, this gets printed whether 5 > 10 or not."
 > ```
 > Running this will result in:
-> ```
+> ```plaintext
 > Hi! this gets printed whether 5 > 10 or not.
 > ```
 
