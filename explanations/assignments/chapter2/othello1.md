@@ -1,16 +1,16 @@
 # Othello 1
 
-> This game fucking blows... Just learn to play FIFA *real* good, you could make
-some good money.
+> This 'Othello' game sucks... Just learn to play FIFA *real* good, you could 
+make some good money.
 
-Okay, so, again, a *lot* of what we've already covered is used again to finish
+Okay, again, a *lot* of what we've already covered is needed again to finish
 this assignment. In fact, I don't even feel like walking through this one,
-and I'll just give you the finished program right away. **But try to finish it
+and I'll just give you the finished program right away. **But _try_ to finish it
 on your own first! If you've followed along/finished the previous two 
-assignments, I know you can do it! <3**
+assignments, you can do it for sure! <3**
 
 I'll make you scroll a bit so you'll be less tempted to glance at the answer
-right away. If you're done, proceed to the [next assignment](electronics.md).
+right away. If you're done, proceed to the [next assignment](electronics).
 
 <div style="margin-top: 10000px"></div>
 

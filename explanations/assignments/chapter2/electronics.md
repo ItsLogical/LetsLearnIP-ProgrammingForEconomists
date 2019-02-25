@@ -1,7 +1,7 @@
 # Electronics
 
 Okay, so the first part of the program we should be building looks very familiar
-again. Asking the user for input, storing it in a variable; easy peasy.
+again. Asking the user for input, storing it in a variable: easy peasy.
 
 We start with:
 
@@ -14,8 +14,8 @@ price3 = float(raw_input("Enter the price of the third article: "))
 > We cast the inputs we get from `raw_input` to floats, of course, since we are
 dealing with a number representing money
 
-Then comes the part of the assignment where it differs from the previous; this 
-assignment will require the use of `if`-statements. 
+Then comes the part of the assignment where it differs from the previous few; 
+this assignment will require the use of `if`-statements. 
 
 > What are `if`-statements? Well, an example is given on page 20 of the manual,
 so be sure to check that out. A short recap: an `if`-statement is used to 
@@ -54,8 +54,9 @@ create a simple algorithm (in human language) for this:
 - If `price3` is bigger than the  highest of *those* two, `price3` is the actual
 highest.
 
-(This is just *one* way to caluclate the hightest, you can think of a bunch
-of others - maybe even better, I don't know, I'm pretty tired right now...)
+(This is just *one* way to caluclate the highest, you could think of a bunch
+of other ways if you want - maybe even better, I don't know, I'm pretty tired 
+right now...)
 
 Translating this little 'alogrithm' to Python is not too hard, we can already
 see the word 'if' being used al over the place, so we know where to use it.
@@ -74,7 +75,7 @@ if price3 > highest :
 
 Once we have the highest of the three in a variable, calculating the discount
 and the total is trivial. Don't forget to put the discount percentage in a 
-constant at the top of your file, though. The TA's *love* that stuff.
+constant at the top of your file, though. The TA's *love* that kind of stuff.
 
 The finished program looks as follows:
 
@@ -97,4 +98,4 @@ print "Discount: %0.2f" % discount
 print "Total: %0.2f" % (price1 + price2 + price3 - discount)
 ```
 
-Okay, [next assignment](othello2.md)
+Okay, [next assignment](othello2)

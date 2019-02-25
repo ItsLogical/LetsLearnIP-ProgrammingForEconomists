@@ -55,8 +55,8 @@ list_of_numbers = string_of_numbers.split()
 
 And give "10 12 2 5 15" as input, `list_of_numbers` will contain `['10', '12', 
 '2', '5', '15']`. This is pretty good! Only thing is, all items in the list are
-`string`s, not `int`s. We need them to be `int`s, so when we use them, we have to
-cast them to `int`s. We just have to keep that in mind.
+`string`s, and not `int`s. We need them to be `int`s, so when we use them, we 
+have to cast them to `int`s. We just have to keep that in mind.
 
 Okay, proceeding. According to the description of the program, we can assume 
 that the first number is smallest than the second, so we can already add this
@@ -70,7 +70,7 @@ second_smallest = int(list_of_numbers[1])
 Then, it's time to loop over the items of the `list_of numbers`, and find out 
 which of the numbers is the second smallest. How do we figure out which one is 
 the second smallest? Well, there are a *lot* of ways actually... One algorithm
-to solve it would he something like this:
+to solve it would be something like this:
 
 For each `number` in the list,
 

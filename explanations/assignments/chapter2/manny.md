@@ -1,14 +1,13 @@
 # Manny
 
-> "*Rightfull* owners"? Really? Jesus Christ, you're supposed to be a 
-university; you're supposed to be smart... 
+> "*Rightfull* owners"? Bad manual! 
 
-Anyway... we've arrived at the loops part! Do you already understand loops, and
-how/why they are used? If not, read the part below:
+We've arrived at the loops-part! Do you already understand loops, and how/why 
+they are used? If not, read the part below:
 
 > ## Why and when to use loops? 
 > 
-> Say, you have to write a program where you have to print something (let's say: 
+> Say you have to write a program where you have to print something (let's say: 
 > "Hello world") 1000 times. Are you gonna duplicate your `print`-statement a 
 > 1000 times? Hell no! That sounds ridiculous. That is analogous to telling your 
 > computer: "Hey, computer. Print 'Hello world'. Print 'Hello world'. Print 'Hello
@@ -16,26 +15,26 @@ how/why they are used? If not, read the part below:
 > better to tell your computer something like: "Hey, computer. Print 'Hello world'
 > a thousand times". 
 > 
-> And you can - thanks to loops! So, in summary, loops are used to repeat code
-> without having to duplicating it (duplicating code is *bad*; what if you have to
-> make a change to the code? You'll have to make the change in every copy you
-> duplicated. That gets really boring real quick).
+> And you can, thanks to loops! So, summarizing, loops are used to repeat code
+> without having to duplicate it (duplicating code is *bad*; what if you have to
+> make a change to the code? You'll have to make the change in every copy you've
+> duplicated. That gets really boring really quick).
 > 
-> Loops come in two flavours: a `for`-loop, and a `while`-loop. They differences
+> Loops come in two flavours: a `for`-loop, and a `while`-loop. Their differences
 > are not too big, both are just used to repeat code, and in a lot of cases they
 > can be used interchangeably. However, there *are* certain scenario's where usage
 > of one over the other is a bit more sensible.
 > 
-> For loops are generally used more when you have to loop a know amount of times.
-> Say you want to loop a constant number of times (like the stupid example above),
-> or you want to loop over the items in a list (we know the length of a list,
-> using the `len()` function).
+> For-loops are generally used more when you have to loop a know amount of times.
+> Say you want to loop a constant number of times (like in the stupid example 
+> above), or you want to loop over the items in a list (to return the lenght of 
+> a list, you can use the `len()` function).
 > 
-> While loops are generally used in situations where you have to loop an unknown
+> While-loops are generally used in situations where you have to loop an unknown
 > number of times, and the number of times you loop depends on some external 
 > condition.
 > 
-> These situations where one type of loop is favoured over the other is actually 
+> These situations where one type of loop is favored over the other are actually 
 > not arbitrary, and it sort of finds its roots in the way we speak. An example:
 > 
 > "**For** each book in the bookstore, I want you to tell me the author and 
@@ -58,7 +57,7 @@ how/why they are used? If not, read the part below:
 > Same thing with while-loops:
 > 
 > "**While** my employer keeps paying me, I'll show up and do my job correctly", 
-> or "I'm gonna console my girlfriend **while** she feels so sad", translates 
+> or "I'm gonna console my girlfriend **while** she feels sad", translates 
 > to:
 > 
 > ```python
@@ -72,10 +71,10 @@ how/why they are used? If not, read the part below:
 >     # console her
 > ```
 
-Okay, so now you've had enough background on loops. Now you should know 
-everything you need to finish the assignment. 
+Okay, now you've had enough background on loops. Now you should know everything 
+you need to finish the assignment. 
 
-So, the assignment requires you to write a program that keeps asking the user 
+The assignment requires you to write a program that keeps asking the user 
 for input, until the user enters a value is greater than 50.
 
 Slightly rephrased, we can describe the assignment as: "*while* the entered 

@@ -1,7 +1,7 @@
 # Plumber
 
-Okay, so most of the stuff you need to know to complete this assignment was 
-already handled in the previous assignment. So if you find I'm glossing over 
+Okay, most of the stuff you need to know to complete this assignment was 
+already discussed in the previous assignment. So if you find I'm glossing over 
 some stuff, make sure you've read (and understand) the previous walkthrough.
 
 Use the `raw_input` function to gather the info needed from the user. Also,
@@ -20,7 +20,7 @@ nearest int. It still returns it as a float though! So `4.5` will really be
 
 With the `hourly_wages` and `hours_worked_rounded` variables, calculating the
 total cost is a piece of cake, of course. We just need to add the call-out cost,
-and that is also good example of something we'd want to declare as a constant.
+and that is also a good example of something we'd want to declare as a constant.
 
 Add the following to the top of your program:
 
@@ -36,7 +36,7 @@ print "The total cost of this repair is: %0.2f euro" % total_cost
 ```
 
 > If you don't get the `%0.2f` stuff; explanation of format strings is given in 
-the [VAT walkthrough](vat.md)
+the [VAT walkthrough](vat)
 
 Our finished program looks as follows:
 

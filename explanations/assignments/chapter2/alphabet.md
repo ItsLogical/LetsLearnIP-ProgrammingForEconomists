@@ -22,7 +22,7 @@ This would be a good time to mention that, if you want to perform a loop from
 a certain start number through an end number (non-inclusive), there's a great 
 and easy way to do this with for-loops. It looks like this:
 
-If you want to loop from 0 through 10:
+If you want to loop from 0 to (but not including) 10:
 
 ```python
 for i in range(0, 10) :
@@ -35,7 +35,7 @@ Now, this also kind of looks like what we should do for our assignment. Only a
 few slight differences:
 
 Instead of looping from 0 to 9, we need to loop from \[numeric value of 'a'\]
-to \[numeric value of 'z'\] + 1 (the plus one is to include 'z' in the range).
+to \[numeric value of 'z'\] + 1 (the 'plus one' is to include 'z' in the range).
 
 If we properly define our start- and end-points in constants, we get:
 

@@ -10,8 +10,8 @@ start_number = int(raw_input("Please enter the number you'd like to start with: 
 Now, what should we do with that start number? Well, thankfully, it's written 
 quite clearly in the assignment description. In fact, it describes the entire
 algorithm we need to implement (and even parts on how to). Essentially, as long
-as (*while*) the number is *not* 1 (because that's when it should terminate), it should 
-repeat the steps described in the manual:
+as (*while*) the number is *not* 1 (because that's when it should terminate), it
+should repeat the steps described in the manual:
 
 - if `n` is even, `n = n / 2` (can also be written as `n /= 2`)
 - else (`n` is odd), `n = 3 * n + 1`
@@ -36,4 +36,4 @@ while number != 1 :
     print number ,
 ```
 
-Voila! On to the [next](secondsmallest.md) (and last of the chapter)!
+Voila! On to the [next](secondsmallest) (and last of the chapter)!

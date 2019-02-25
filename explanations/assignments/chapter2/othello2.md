@@ -6,7 +6,7 @@ Again, this assignment starts off similarly as we've seen before:
 - Find out which is the biggest.
 
 If you don't know how to do this, you can find out in the 
-[previous walkthrough](electronics.md).
+[previous walkthrough](electronics).
 
 The only thing 'new' about this assignment is how to go from a number of 
 milliseconds to a time in the format `HH:MM:SS`.
